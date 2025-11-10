@@ -1,22 +1,37 @@
-# 📊 Project: Complex API 2
+# Have You Seen This Bird? (Compex-API2)
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+_A website to search for different birds in your area using the eBird and Nuthatch APIs_
 
-### How to submit your code for review:
+<hr>
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<img src="./Screenshot 2025-11-10 at 5.42.51 PM.png">
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+<hr>
+
+## Tech Used
+
+| Category  | Tools                               |
+| --------- | ----------------------------------- |
+| Frontend  | HTML, CSS, JavaScript          |
+
+Also, the Nuthatch, eBird, and GeoCodio APIs
+
+<hr>
+
+## Live Demo
+
+https://godwinkamau.github.io/complex-api2/
+
+<hr>
+
+## Features
+
+- Type in a city and find the birds recently spotted in that area.
+
+<hr>
+
+## Lessons Learned
+
+- Tranferring data from one API to another to mix and match information.
+- Creating elements in the DOM after fetching data.
+- A lot about birdwatching.
